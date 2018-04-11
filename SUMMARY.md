@@ -7,4 +7,5 @@
 * [CoreGraphics](coregraphics.md)
   * [CGAffineTransform](coregraphics/cgaffinetransform.md)
 * [Download in the background](download-in-the-background.md)
+* [Notification](notification.md)
 
