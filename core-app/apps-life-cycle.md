@@ -1,0 +1,4 @@
+## APP's Life Cycle
+
+
+
